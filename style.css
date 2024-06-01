@@ -1,8 +1,11 @@
-body {
+@media sccream and (min-width:570ppx) {
+  body {
     background-color: #5c5050;
     font-size: 15px;
     font-family: 'Poppins';
     place-content: center;
+}
+  
 }
 
   .calculator {
