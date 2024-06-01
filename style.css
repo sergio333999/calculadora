@@ -3,14 +3,7 @@ body{
   background: -webkit-linear-gradient(to right, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   
-}
-@media scream and (max-width:569px) {
-  body {
-    background-color: #5c5050;
-    font-size: 15px;
-    font-family: 'Poppins';
-    place-content: center;
-}
+
   
 }
 @media scream and (min-width:570ppx) {
